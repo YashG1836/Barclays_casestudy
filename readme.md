@@ -16,7 +16,7 @@
 
 ## Files
 - `FX_Hedging_Strategy.pptx` — one-page deck (the submission)
-- `FX_Hedging_Model.xlsx` — live model: Hedge Analysis (formulas), Strategy Backtest, Raw Data
+<!-- - `FX_Hedging_Model.xlsx` — live model: Hedge Analysis (formulas), Strategy Backtest, Raw Data -->
 - `hedging_app.py` — interactive Streamlit dashboard
 - `Casestudy_Data.xlsx` — source data (Jul-24 → Jun-26: spot, 1Y forward, ATM vol)
 
